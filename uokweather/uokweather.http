@@ -1,0 +1,6 @@
+@uokweather_HostAddress = http://localhost:5023
+
+GET {{uokweather_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
